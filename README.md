@@ -48,5 +48,5 @@ An online book store web application developed using **Java**, **Servlets**, **J
   Configure Tomcat in IDE
  Right-click project > Run on Server
 
-## 📁 Project Structure (MVC)
+
 
